@@ -19,7 +19,7 @@ public class main
             cita cita = new cita();
              
             
-            System.out.println("****BIENVENID@ AL HOSPITAL MILAGRO****");
+            System.out.println("HOSPITAL MILAGRO");
             
             System.out.println("");
 
